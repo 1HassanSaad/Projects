@@ -1,3 +1,5 @@
+#Genetic_Algorithm
+
 from random import randint
 nums=input('enter number of generation : ')
 if (nums<=0):
